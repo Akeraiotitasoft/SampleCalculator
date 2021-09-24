@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Akeraiotitasoft.Samples.Calculator.Library", "src\Akeraiotitasoft.Samples.Calculator.Library\Akeraiotitasoft.Samples.Calculator.Library.csproj", "{EEF35FDA-2323-44A4-9081-547700460716}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Akeraiotitasoft.Samples.Calculator", "src\Akeraiotitasoft.Samples.Calculator\Akeraiotitasoft.Samples.Calculator.csproj", "{6C5BDCDC-508F-4DC0-932C-22AC57C61D6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEF35FDA-2323-44A4-9081-547700460716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF35FDA-2323-44A4-9081-547700460716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF35FDA-2323-44A4-9081-547700460716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF35FDA-2323-44A4-9081-547700460716}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C5BDCDC-508F-4DC0-932C-22AC57C61D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C5BDCDC-508F-4DC0-932C-22AC57C61D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C5BDCDC-508F-4DC0-932C-22AC57C61D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C5BDCDC-508F-4DC0-932C-22AC57C61D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B271CB5D-AF98-45B4-AAC3-0B71F29E96A0}
+	EndGlobalSection
+EndGlobal

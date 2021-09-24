@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Akeraiotitasoft.Command" Version="1.0.0" />
+    <PackageReference Include="Akeraiotitasoft.ConsoleDriving.Abstractions" Version="0.2.0-beta" />
+    <PackageReference Include="Akeraiotitasoft.DependencyInjection.Modules.Abstraction" Version="1.0.0" />
+    <PackageReference Include="Akeraiotitasoft.IOFacade" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>
